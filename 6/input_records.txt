@@ -1,0 +1,12 @@
+Type: News
+Text: Breaking news example.
+City: London
+----
+Type: PrivateAd
+Text: Discount available!
+Expiration: 2025-12-31
+----
+Type: Event
+EventName: Tech Conference
+City: Berlin
+Date: 2025-11-30
