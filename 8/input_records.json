@@ -1,0 +1,18 @@
+{
+  "1": {
+    "publication_type": "news",
+    "text": "Breaking news from Warsaw.",
+    "city": "Warsaw"
+  },
+  "2": {
+    "publication_type": "ads",
+    "text": "Sale! Up to 50% off.",
+    "date": "2025-12-31"
+  },
+  "3": {
+    "publication_type": "event",
+    "text": "Python Conference",
+    "city": "Krakow",
+    "date": "2025-12-15"
+  }
+}
