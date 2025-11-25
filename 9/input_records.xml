@@ -1,0 +1,15 @@
+<records>
+    <record type="news">
+        <text>Breaking news from Warsaw.</text>
+        <city>Warsaw</city>
+    </record>
+    <record type="ads">
+        <text>Sale! Up to 50% off.</text>
+        <date>2025-12-31</date>
+    </record>
+    <record type="event">
+        <text>Python Conference</text>
+        <city>Krakow</city>
+        <date>2025-12-15</date>
+    </record>
+</records>
